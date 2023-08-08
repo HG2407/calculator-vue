@@ -136,6 +136,7 @@ export default {
     box-sizing: border-box;
     background-color: #273344;
     overflow: hidden;
+    margin-top: 4rem;
   }
 
   .btn {
