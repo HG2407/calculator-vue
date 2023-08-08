@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+<!-- Check this live demo -> -->
+https://hg2407.github.io/calculator-vue/dist/
